@@ -1,0 +1,17 @@
+{
+  "name": "ignite-node-primeiro-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafaelgs84/ignite-node-primeiro-projeto.git",
+  "author": "rafaelgs84 <rafaelgs84@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
